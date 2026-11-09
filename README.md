@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%C3%81ngel&fontSize=60&animation=fadeIn&fontAlignY=35" />
+</p>
 # Hola, soy Ángel 👋
 
 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga.
@@ -30,3 +33,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga.
 ![Lenguajes más usados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angelpaezzzz&layout=compact&langs_count=8&theme=algolia)
 
 <p align="center"><i>Cada línea de código me acerca un poco más a donde quiero estar.🚀</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
