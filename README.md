@@ -35,5 +35,5 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga.
 <p align="center"><i>Cada línea de código me acerca un poco más a donde quiero estar.🚀</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Aprendiendo+un+commit+a+la+vez;Estudiante+de+DAW+en+M%C3%A1laga;HTML%2C+CSS%2C+JavaScript+y+Java;Abierto+a+colaborar+en+proyectos+web" alt="Texto animado" />
 </p>
