@@ -6,8 +6,8 @@
 # Hola, soy Ángel 👋
 
 
-![Visitas](https://komarev.com/ghpvc/?username=LucaTiziano&label=Visitas&color=2c5364&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/LucaTiziano?label=Seguidores&style=for-the-badge&color=203a43&logo=github)
+![Visitas](https://komarev.com/ghpvc/?username=angelpaezzzz&label=Visitas&color=2c5364&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/angelpaezzzz?label=Seguidores&style=for-the-badge&color=203a43&logo=github)
 
 </div>
 
