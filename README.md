@@ -1,7 +1,18 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%C3%81ngel&fontSize=60&animation=fadeIn&fontAlignY=35" />
 </p>
+<div align="center">
 # Hola, soy Ángel 👋
+
+
+![Visitas](https://komarev.com/ghpvc/?username=LucaTiziano&label=Visitas&color=2c5364&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/LucaTiziano?label=Seguidores&style=for-the-badge&color=203a43&logo=github)
+
+</div>
+
+---
+
 
 ## 👨‍💻 Sobre mí
 
