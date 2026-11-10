@@ -3,13 +3,14 @@
 </p>
 # Hola, soy Ángel 👋
 
----
-👨‍💻 Sobre mí
-🎓 Cursando el Grado Superior en Desarrollo de Aplicaciones Web (DAW)
-☕ Ahora mismo estoy aprendiendo Java y la lógica de programación
-🐧 Practicando comandos de GNU/Linux en máquinas virtuales
-🗄️ Diseñando bases de datos con el modelo entidad-relación
-🌱 Con ganas de aprender algo nuevo cada día
+## 👨‍💻 Sobre mí
+
+- 🎓 Cursando el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**
+- ☕ Ahora mismo estoy aprendiendo **Java** y la lógica de programación
+- 🐧 Practicando comandos de **GNU/Linux** en máquinas virtuales
+- 🗄️ Diseñando bases de datos con el **modelo entidad-relación**
+- 🌱 Con ganas de aprender algo nuevo cada día
+
 ---
 
 
