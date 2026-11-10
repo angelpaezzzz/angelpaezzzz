@@ -3,11 +3,15 @@
 </p>
 # Hola, soy Ángel 👋
 
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga.
+---
+👨‍💻 Sobre mí
+🎓 Cursando el Grado Superior en Desarrollo de Aplicaciones Web (DAW)
+☕ Ahora mismo estoy aprendiendo Java y la lógica de programación
+🐧 Practicando comandos de GNU/Linux en máquinas virtuales
+🗄️ Diseñando bases de datos con el modelo entidad-relación
+🌱 Con ganas de aprender algo nuevo cada día
+---
 
-- 🌱 Aprendiendo HTML, CSS, JavaScript y Java
-- 💻 Practicando con ejercicios y proyectos del ciclo
-- 🤝 Abierto a colaborar en proyectos de desarrollo web
 
 ## Tecnologías
 
